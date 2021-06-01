@@ -1,0 +1,8 @@
+{
+  "name": "reign/auth",
+  "autoload": {
+    "psr-4": {
+      "Reign\\Auth\\": "src"
+    }
+  }
+}
